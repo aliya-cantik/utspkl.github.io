@@ -1,0 +1,59 @@
+Question: Pulau Komodo terletak di provinsi?
+Image: 
+Options: Bali, NTT, NTB, Aceh
+Answer: NTT
+Explanation: Pulau Komodo terletak di provinsi Nusa Tenggara Timur (NTT).
+
+Question: Apa singkatan dari MPR?
+Image: 
+Options: Majelis Perwakilan Rakyat, Majelis Permusyawaratan Rakyat, Majelis Perhimpunan Rakyat, Majelis Perserikatan Rakyat
+Answer: Majelis Permusyawaratan Rakyat
+Explanation: MPR adalah singkatan dari Majelis Permusyawaratan Rakyat, lembaga legislatif di Indonesia.
+
+Question: Pada tanggal berapakah Hari Lahir Pancasila diperingati?
+Image: 
+Options: 17 Agustus, 29 Mei, 30 November, 1 Juni
+Answer: 1 Juni
+Explanation: Hari Lahir Pancasila diperingati setiap tanggal 1 Juni.
+
+Question: Indra manusia yang digunakan untuk merasakan adalah
+Image: 
+Options: Mata, Hidung, Telinga, Lidah
+Answer: Lidah
+Explanation: Indra perasa manusia terletak di lidah.
+
+Question: Air adalah salah satu sumber daya alam yang sangat penting bagi kehidupan manusia, antara lain berfungsi sebagai?
+Image: 
+Options: Sumber barang elektronik, Alat untuk membuat tanaman, Sumber minuman, Alat untuk bahan bakar
+Answer: Sumber minuman
+Explanation: Air berfungsi sebagai sumber minuman bagi manusia dan makhluk hidup lainnya.
+
+Question: Ikan-ikan di sungai akan mati jika tidak ada air, hal ini menandakan bahwa ada jenis hewan yang membutuhkan air sebagai ….
+Image: 
+Options: Sumber makanan, Alat transportasi, Tempat hidupnya, Alat berkembangbiak
+Answer: Tempat hidupnya
+Explanation: Ikan adalah hewan akuatik yang membutuhkan air sebagai tempat hidupnya.
+
+Question: Siapa nama penyanyi di bawah ini?
+Image: justinbieber2.jpg
+Options: Aliando, Justin Bieber, Eminem, P Diddy
+Answer: Justin Bieber
+Explanation: Justin Bieber adalah seorang penyanyi pop terkenal.
+
+Question: Siapa nama wanita pada gambar di bawah ini?
+Image: megawati2.jpg
+Options: Puan Maharani, Megawati, Nursani, Maemunah
+Answer: Megawati
+Explanation: Megawati Soekarnoputri adalah mantan presiden Indonesia.
+
+Question: Berapa hasil 2 + 9 =
+Image: 
+Options: 8, 9, 11, 12
+Answer: 11
+Explanation: 2 + 9 = 11.
+
+Question: Siapakah nama aktor di bawah ini?
+Image: vindiesel2.jpg
+Options: Lukman, Marcel, Luken, Vin Diesel
+Answer: Vin Diesel
+Explanation: Vin Diesel adalah seorang aktor terkenal yang dikenal lewat film Fast and Furious.
